@@ -1,0 +1,20 @@
+[
+	{ 
+	"nama"  : "Ranu Hadi Pranata",
+	"alamat": "jalan sampurna 3no.14 sampit",
+	"hobby" : [
+		"olahraga",
+		"masak",
+		"nonton"
+	],
+	"status":belummenikah,
+	"pendidikan": {
+		"smk spp n sampit",
+		"universitas palangka raya"
+	},
+	"skill"		:[
+		"komputer" {" cukup baik"},
+		"bahasa inggris"{"cukup baik"}
+	]
+}
+]
