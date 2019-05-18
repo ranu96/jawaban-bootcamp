@@ -1,0 +1,5 @@
+Arti dari REST API
+  -Merupakan standar arsitektur komunikasi berbasis web yang sering digunakan dalam pengembangan layanan berbasis web.
+  -Umumnya menggunakan HTTP (Hypertext Transfer Protocol) sebagai protocol untuk komunikasi data
+Kegunaan JSON pada REST API
+  -JSON adalah format yang ringan dan mempermudah kita dapat membagi, menyimpan dan bekerja dengan data. Sebagi sebuah format.
